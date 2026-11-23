@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mohammed-el-shayeb.github.io/sitemap.xml
